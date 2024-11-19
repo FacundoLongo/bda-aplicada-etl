@@ -1,0 +1,31 @@
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\bin\Debug\Extractor.exe.config
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\bin\Debug\Extractor.exe
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\bin\Debug\Extractor.pdb
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.csproj.AssemblyReference.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.csproj.CopyComplete
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.exe
+C:\Users\Santiago\Documents\UAI\CURSANDO\T1-23-31 BASES DE DATOS APLICADA\TP\ETL\Extractor\Extractor\obj\Debug\Extractor.pdb
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\bin\Debug\Extractor.exe.config
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\bin\Debug\Extractor.exe
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\bin\Debug\Extractor.pdb
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\obj\Debug\Extractor.csproj.AssemblyReference.cache
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\obj\Debug\Extractor.csproj.CoreCompileInputs.cache
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\obj\Debug\Extractor.csproj.Up2Date
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\obj\Debug\Extractor.exe
+C:\Users\MisilReborn\Desktop\ETLC#\Extractor\obj\Debug\Extractor.pdb
+C:\Users\facuni\Desktop\ETL\Extractor\bin\Debug\Extractor.exe.config
+C:\Users\facuni\Desktop\ETL\Extractor\bin\Debug\Extractor.exe
+C:\Users\facuni\Desktop\ETL\Extractor\bin\Debug\Extractor.pdb
+C:\Users\facuni\Desktop\ETL\Extractor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\facuni\Desktop\ETL\Extractor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\facuni\Desktop\ETL\Extractor\obj\Debug\Extractor.csproj.AssemblyReference.cache
+C:\Users\facuni\Desktop\ETL\Extractor\obj\Debug\Extractor.csproj.CoreCompileInputs.cache
+C:\Users\facuni\Desktop\ETL\Extractor\obj\Debug\Extractor.csproj.CopyComplete
+C:\Users\facuni\Desktop\ETL\Extractor\obj\Debug\Extractor.exe
+C:\Users\facuni\Desktop\ETL\Extractor\obj\Debug\Extractor.pdb
